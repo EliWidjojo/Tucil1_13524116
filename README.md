@@ -36,7 +36,7 @@
 Program ini mencari solusi dari permainan Queens LinkedIn.
 
 ## Cara Menjalankan Program
-1. Membuka _queensGameSolver.exe file_ di folder bin.
+1. Membuka _queensGameSolver.exe_ di folder bin.
 3. _Input .txt file_ dengan tombol Open TXT File.
 4. Program akan mengvisualisasikan papan permainan. (warna di-_assign_ secara random).
 3. Pilih jenis algoritma yang akan digunakan.\
