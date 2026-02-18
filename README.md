@@ -45,6 +45,6 @@ Program ini mencari solusi dari permainan Queens LinkedIn.
 4. Hasil dapat disimpan dalam bentuk TXT maupun JPEG.
 
 ## Author
-Nama  : Eliana Natalie Widjojo
-NIM   : 13524116
+Nama  : Eliana Natalie Widjojo\
+NIM   : 13524116\
 Kelas : K03
