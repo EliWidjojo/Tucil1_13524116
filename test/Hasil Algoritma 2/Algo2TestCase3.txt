@@ -1,0 +1,5 @@
+#BCDE
+AB#DE
+ABCD#
+A#CDE
+ABC#E
